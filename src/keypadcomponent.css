@@ -1,0 +1,11 @@
+.keypad{
+    text-decoration-color: none;
+}
+button{
+    font-size: larger;
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    margin: 2px;
+}
+
